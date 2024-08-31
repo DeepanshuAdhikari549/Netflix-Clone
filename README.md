@@ -1,3 +1,6 @@
+Website live
+Website is live at https://deepanshuadhikari549.github.io/Netflix-Clone/
+
 Netflix Clone
 
 Overview
